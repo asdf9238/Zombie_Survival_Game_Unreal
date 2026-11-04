@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenAIAPI-0047.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Develop\Unreal_Project\Project_GameAI\UnrealProject_GameAI\Intermediate\Build\Win64\x64\UnrealProject_GameAIEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Develop\Unreal_Project\Project_GameAI\UnrealProject_GameAI\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
+"C:\Users\Develop\Unreal_Project\Project_GameAI\UnrealProject_GameAI\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Default.rc2.res"
+/OUT:"C:\Users\Develop\Unreal_Project\Project_GameAI\UnrealProject_GameAI\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\UnrealEditor-OpenAIAPI-0047.lib"
